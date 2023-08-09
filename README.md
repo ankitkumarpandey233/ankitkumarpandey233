@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarpandey233&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarpandey233" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ankitkumarpandey233)](https://github.com/ryo-ma/github-profile-trophy)</p>
+
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ankitpandey" target="blank"><img src="https://img.shields.io/twitter/follow/ankitpandey?logo=twitter&style=for-the-badge" alt="ankitpandey" /></a> </p>
 
 - 🔭 I’m currently working on [Placement helper](https://github.com/ankitkumarpandey233/placementhelper)
 
@@ -17,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@pandeyjee2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pandeyjee2310" height="30" width="40" /></a>
+<a href="https://twitter.com/ankitpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitpandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit kumar pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar pandey" height="30" width="40" /></a>
 </p>
 
