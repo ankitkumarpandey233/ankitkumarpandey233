@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarpandey233&theme=onedark)" alt="ankitkumarpandey233" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ankitpandey" target="blank"><img src="https://img.shields.io/twitter/follow/ankitpandey?logo=twitter&style=for-the-badge" alt="ankitpandey" /></a> </p>
 
 - 🔭 I’m currently working on [Placement helper](https://github.com/ankitkumarpandey233/placementhelper)
 
